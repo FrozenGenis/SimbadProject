@@ -1,10 +1,8 @@
-# Simbad-Project-Skeleton
+# Software Design project
 
-A skeleton with Simbad and its dependencies configured. Import it as usual in Eclipse.
+Project is based on the Simbad simulator to simulate a ROVU system designed during the course Software Design.
 
-Start working under package src.main.java.softdesign
-
-### Some resources:
+### Related resources:
 
 * [https://github.com/jimmikaelkael/simbad/tree/master/src](https://github.com/jimmikaelkael/simbad/tree/master/src)
 * [https://www.ibm.com/developerworks/java/library/j-robots/](https://www.ibm.com/developerworks/java/library/j-robots/)
